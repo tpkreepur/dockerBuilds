@@ -10,12 +10,4 @@ This is the central hub for creating development environments with ease. These
 ##NOTES
 
 When adding to this project remember to open a new directory:
-1. '''mkdir /path/to/dockerBuilds/my_dockerBuild/'''
-2. '''cd my_dockerBuild/'''
-
-Create the docker-compose.yml file that will start your custom docker container project
-
-ANC is currently using the following images
-mysql:5.7
-wordpress:latest
-alpine:latest
+1. '''mkdir ~/dockerBuilds/my_dockerBuild/
