@@ -439,7 +439,7 @@
 	"project": "dockerBuilds.sublime-project",
 	"replace":
 	{
-		"height": 70.0
+		"height": 50.0
 	},
 	"save_all_on_build": true,
 	"select_file":
